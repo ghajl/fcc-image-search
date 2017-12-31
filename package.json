@@ -1,0 +1,27 @@
+{
+  "name": "fcc-image-search",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "google-images": "^2.1.0",
+    "express-session": "^1.15.6"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/ghajl/fcc-image-search"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

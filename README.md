@@ -1,1 +1,1 @@
-# FreeCodeCamp Image Search Abstraction Layer project
+# FreeCodeCamp image search project
