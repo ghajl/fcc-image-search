@@ -1,0 +1,25 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+  margin: 25px;
+}
+
+
+.container {
+	padding: 20px;
+	margin-top: 40px;
+}
+
+ol {
+	list-style-position: inside;
+  padding-left: 0;
+}
+ul {
+	list-style-type: none;
+  
+}
+code {
+   background-color: rgba(0, 0, 0, .1); 
+}
+
